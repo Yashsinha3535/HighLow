@@ -7,9 +7,10 @@
 
 .title{
     color: white;
-    left: 40%;
+    left: 22.5%;
     bottom: 90%;
     position: absolute;
+    font-size: large;
 }
 
 .rule{
@@ -32,7 +33,7 @@
 .input{
     color: white;
     position: absolute;
-    left: 43.2%;
+    left: 18%;
     bottom: 64%;
     font-size: large;
     font-weight: 1000;
@@ -44,16 +45,16 @@
 .inputText{
     color: white;
     position: absolute;
-    left: 45%;
+    left: 29%;
     bottom: 68%;
 }
 
 #btn{
     color: black;
     background-color: greenyellow;
-    height: 3vh;
-    width: 6vh;
+    height: 4vh;
+    width: 8vh;
     position: absolute;
-    left: 48%;
-    bottom: 59%;
+    left: 43%;
+    bottom: 57.5%;
 }
