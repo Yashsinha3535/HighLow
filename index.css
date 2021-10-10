@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+    font-family: 'Ubuntu';
+}
+
+.title{
+    color: white;
+    left: 40%;
+    bottom: 90%;
+    position: absolute;
+}
+
+.rule{
+    color: white;
+    bottom: 3%;
+    left: 10%;
+    position: absolute;
+    font-size: larger;
+}
+
+.result{
+    color: white;
+    position: absolute;
+    left: 35%;
+    bottom: 42%;
+    font-size: 3vh;
+    align-self: center;
+}
+
+.input{
+    color: white;
+    position: absolute;
+    left: 43.2%;
+    bottom: 64%;
+    font-size: large;
+    font-weight: 1000;
+    border-color: chartreuse;
+    
+}
+
+
+.inputText{
+    color: white;
+    position: absolute;
+    left: 45%;
+    bottom: 68%;
+}
+
+#btn{
+    color: black;
+    background-color: greenyellow;
+    height: 3vh;
+    width: 6vh;
+    position: absolute;
+    left: 48%;
+    bottom: 59%;
+}
